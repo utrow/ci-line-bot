@@ -1,2 +1,2 @@
 # line-messagins-api
- LINE Messaging API with PHP + Codeigniter
+PHPとCodeigniter3で LINE Messaging APIを使うためのソースコード。 
